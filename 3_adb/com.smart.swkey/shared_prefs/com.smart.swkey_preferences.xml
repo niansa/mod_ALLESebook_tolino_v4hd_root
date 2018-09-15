@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="trigger_action">0</string>
+<int name="position" value="210" />
+<string name="button_size">2</string>
+<string name="panel_ori">0</string>
+<string name="trigger_side">0</string>
+<string name="theme">8</string>
+<string name="button_alpha">255</string>
+<boolean name="vibration" value="true" />
+<string name="auto_hide">0</string>
+<string name="trigger_alpha">255</string>
+<long name="last_version_code" value="36" />
+</map>

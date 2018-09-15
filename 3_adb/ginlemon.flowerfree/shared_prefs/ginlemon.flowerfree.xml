@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<string name="LastLocale">de</string>
+<int name="prevoVersion" value="329" />
+<string name="ClockShadow">2/0/1/#33000000</string>
+<boolean name="SearchBarVisible" value="false" />
+<boolean name="WizardComplete" value="true" />
+<int name="searchbarTint" value="-1" />
+<boolean name="canAccessAppList" value="true" />
+<int name="WizardState" value="5" />
+<int name="DrwPortraitColumns" value="0" />
+<boolean name="firsttime" value="false" />
+</map>

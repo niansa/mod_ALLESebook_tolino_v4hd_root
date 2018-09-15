@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<boolean name="iconsLabel" value="true" />
+<boolean name="suggestedApps" value="true" />
+<boolean name="menuButton" value="true" />
+<boolean name="SearchBarVisible" value="false" />
+<boolean name="safeSearch" value="true" />
+<int name="searchbarTint" value="-1" />
+<boolean name="canAccessContactList" value="true" />
+</map>
